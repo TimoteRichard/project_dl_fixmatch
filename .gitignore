@@ -21,3 +21,4 @@ data/
 # Poids de modèles sauvegardés
 *.pth
 *.ckpt
+
